@@ -30,7 +30,7 @@ In a TS/GraphQL project, ask Claude Code:
 
 The full **Backend Skills Pack** is coming soon with 10 skills for this stack: schema design, resolver auth, typed errors, integration tests against real Postgres, slow-query profiling, a PR review checklist, a `CLAUDE.md` template, and a starter repo every skill is tested against.
 
-Star this repo to hear when it launches.
+Star this repo or follow [@backendskills00](https://x.com/backendskills00) on X to hear when it launches.
 
 ## License
 
