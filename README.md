@@ -28,9 +28,11 @@ In a TS/GraphQL project, ask Claude Code:
 
 ## The full pack
 
-The full **Backend Skills Pack** is coming soon with 10 skills for this stack: schema design, resolver auth, typed errors, integration tests against real Postgres, slow-query profiling, a PR review checklist, a `CLAUDE.md` template, and a starter repo every skill is tested against.
+**[Backend Skills Pack — $19 on Gumroad](https://adnology0.gumroad.com/l/backend-skills-pack)**
 
-Star this repo or follow [@backendskills00](https://x.com/backendskills00) on X to hear when it launches.
+9 skills for this stack: schema design, resolver auth, N+1 fixes, cursor pagination, typed errors, safe migrations, slow-query profiling, integration tests against real Postgres, and PR review. Plus a `CLAUDE.md` template and a starter backend where every pattern is implemented and tested in CI.
+
+Follow [@backendskills00](https://x.com/backendskills00) on X for updates.
 
 ## License
 
