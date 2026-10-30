@@ -26,6 +26,10 @@ In a TS/GraphQL project, ask Claude Code:
 - "Check the Post and Order resolvers for N+1 queries"
 - "Add a NOT NULL `status` column to the projects table"
 
+## Check a migration before you ship it
+
+Paste any migration into the free **[Postgres Migration Safety Checker](https://adnan909.github.io/postgres-migration-checker/)**. It flags statements that lock or rewrite live tables, with a safe version of each. Runs in your browser.
+
 ## The full pack
 
 **[Backend Skills Pack — $19 on Gumroad](https://adnology0.gumroad.com/l/backend-skills-pack)**
